@@ -7,14 +7,14 @@ This project involves analyzing customer data for a subscription service to iden
 segments and trends. The goal is to understand customer behavior, track subscription types,identify key trends in cancellations and renewals and present a dashboards that visualizes the insight 
 ### Tools used:
 - Microsoft Excel
-  1 For data cleaning
-  2 For data exploration
-  3 For data analysis
+ - For data cleaning
+ - For data exploration
+ - For data analysis
 - Structured Query language(SQL) FOR quering data.
 - Power BI for data visualization.
 
 ## Exploratory Data Analysis: 
-Data Cleaning and Exploration: The data given has
+Data Cleaning and Exploration: The dataset given contained duplicated records. To gain insight and avoid overstating the outcome,I embarked on removing duplicate and prepare the data for exploration.
 
 ## Data Exploration: Excel and SQL
 In Excel: I carried out exploration by using pivot table to summarize
