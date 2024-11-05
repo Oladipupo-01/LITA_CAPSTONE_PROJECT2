@@ -4,13 +4,13 @@ A documentation of my project assessment for LITA by The Incubator Hub
 
 ## Project Overview:
 This project involves analyzing customer data for a subscription service to identify 
-segments and trends. The goal is to understand customer behavior, track subscription types,identify key trends in cancellations and renewals and present a dashboards that visualizes the insight 
+segments and trends. The goal is to understand customer behavior, track subscription types,identify key trends in cancellations and renewals and present a dashboards that visualizes the insight.
 ### Tools used:
 - Microsoft Excel
  - For data cleaning
  - For data exploration
  - For data analysis
-- Structured Query language(SQL) FOR quering data.
+- Structured Query language(SQL) for Quering data.
 - Power BI for data visualization.
 
 ## Exploratory Data Analysis: 
@@ -111,9 +111,15 @@ select CustomerID, CustomerName,Region, SubscriptionType,SubscriptionStart,Subsc
 
 I developed an ineractive dashboard using PowerBI to visualizee the sales performance of the Subscription Service. The dashboard provides key insights into
 
--
--
--
+- Total revenue 
+- Total number of customer 
+- Average revenue per customer
+- Average subscription duration
+- Subscription type by revenue
+- Subscription type by region
+- Active and cancelled subscribers
+
+  
 It allows users to filter data by product and region.
 
 
