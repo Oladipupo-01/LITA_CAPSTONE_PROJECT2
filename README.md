@@ -7,9 +7,9 @@ This project involves analyzing customer data for a subscription service to iden
 segments and trends. The goal is to understand customer behavior, track subscription types,identify key trends in cancellations and renewals and present a dashboards that visualizes the insight.
 ### Tools used:
 - Microsoft Excel
- - For data cleaning
- - For data exploration
- - For data analysis
+   - For data cleaning
+   - For data exploration
+   - For data analysis
 - Structured Query language(SQL) for Quering data.
 - Power BI for data visualization.
 
