@@ -126,7 +126,8 @@ It allows users to filter data by product and region.
 ![Screenshot (40)](https://github.com/user-attachments/assets/7281097c-3930-4c71-8a12-769ec37193b3)
 
 
-### Inference and Conclusion 
+### Inference and Conclusion:
+
 #### Revenue by Region
 Inference : his shows how much revenue each region contributed to the overall revenue of the Subscription Service. 
 
@@ -140,6 +141,20 @@ Inference: The pivot table and pie chart provide insight into which subscription
 Conclusion: The 'Basic' subscription type contribute more revenue than 'Standard' and 'Premium' subscription type. This shoes price sensitivity among customer.
 
 Recommendations: For the 'Standard' and 'Premuim' subscription type, the subscription service should adjust pricing or add more benefits to encourage upgrade. This is to maintain customer satisfaction and loyalty.
+
+#### Customer Count by Region 
+Inference: This helps to understand where the most customer are located.
+
+Conclusion: The 'East' region has the highest customer count followed by the 'South' with a margin of 42 count. This indicate high demand in the 'East' thsn other regions.
+
+Recommendation: The region with low customer count 'West' and 'North' should be evaluated and the Subscription Service Company should consider marketing campaign to increase awareness.
+
+#### Average revenue per Customer 
+Inference: This indicate the average amount each customer contribute to the total revenue.
+
+Conclusion: The 'South' and 'West' region have a higher average revenue which suggest that customers opted for high value and morr expensive subscription type, while the 'East' and 'North' have a low average revenue.
+
+Recommendation: To increase average revenue, the Subscription Service Company should consider offering value-added services or encourage upgrade.
 
 
 
